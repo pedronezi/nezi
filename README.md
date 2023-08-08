@@ -1,1 +1,1 @@
-# nezi
+# aula 7 Python 
